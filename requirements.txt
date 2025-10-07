@@ -1,6 +1,11 @@
-scikit-learn
+matplotlib
 pandas
 numpy
-matplotlib
+scikit-learn
+scipy
+missingno
 seaborn
-optuna
+lifelines
+category_encoders
+typing-extensions
+scikit-survival
